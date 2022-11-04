@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce1d9c17-5852-4db5-99c7-945d1fa7d587" name="Changes" comment="">
+
       <change afterPath="$PROJECT_DIR$/.idea/src/Civitas/TipoCasilla.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Civitas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Civitas.iml" afterDir="false" />
