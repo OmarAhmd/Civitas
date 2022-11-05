@@ -2,14 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce1d9c17-5852-4db5-99c7-945d1fa7d587" name="Changes" comment="">
-
-      <change afterPath="$PROJECT_DIR$/.idea/src/Civitas/TipoCasilla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/Civitas/Dado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/Civitas/MazoSorpresas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/Civitas/Sorpresa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/Civitas/Tablero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Civitas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Civitas.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/Civitas/TipoCasilla.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/Civitas/TipoCasilla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/Civitas/TipoSorpresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/Civitas/TipoSorpresa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="a6276d74-7042-4669-9c64-1977f76bbf78" name="Changes by rabae" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/src/Civitas/Casilla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/Civitas/TestP1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +28,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -28,6 +37,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2H0L4ArKaDERvAmoDfVxY4TEyyn" />
   <component name="ProjectViewState">
@@ -39,7 +51,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Usuario/Desktop/untitled1&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -52,6 +65,7 @@
       <updated>1667416867945</updated>
       <workItem from="1667416870695" duration="1229000" />
       <workItem from="1667572320607" duration="1217000" />
+      <workItem from="1667636950954" duration="12122000" />
     </task>
     <servers />
   </component>
